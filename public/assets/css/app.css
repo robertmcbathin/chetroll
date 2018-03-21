@@ -1,0 +1,3 @@
+.separator-container .separator.line-separator:before, .separator-container .separator.line-separator:after #separator-black:before #separator-black:after{
+	border: 1px solid #000;
+}
